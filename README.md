@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I am Kevin 👋
+
+I am software developer and a creative thinkerer(not painter). 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jivani/) \
+[🌐 List100](https://kevin3010.github.io/list100/)
+
 
 <!--
 **kevin3010/kevin3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
