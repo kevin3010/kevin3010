@@ -1,22 +1,33 @@
-## Hi, I am Kevin 👋
+# 👋 Hi there, I'm Kevin Jivani
 
-I am software developer and a creative thinkerer(not painter). 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20Jivani&fontSize=40&fontAlign=center)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jivani/) \
-[🌐 List100](https://kevin3010.github.io/list100/)
+🎯 **Software Developer @ Google** | 🇨🇦 Toronto, Canada  
+🧠 **Machine Learning Enthusiast** \
+🎨 Passionate about the **creative side of tech**
 
+---
 
-<!--
-**kevin3010/kevin3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Outside Work Hours
 
-Here are some ideas to get you started:
+- Skiing and Iceskates [image](https://kevin3010.github.io/assets/images/skiing.PNG)
+- 🤖 Exploring the intersection of **AI & ML** in real-world applications
+- 🎬 Exploring **AI-generated storytelling** and **ML-driven visuals**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-jivani/)
+- ✍️ [**100 Things I Want to Do in this Lifetime**](https://kevin3010.github.io/list100/)
+
+---
+
+## ⚡ Fun Facts
+
+- 🧳 **Places I've lived in my Life**
+  - Surat, India
+  - Nadiad, India
+  - Montreal, Canada
+  - Ottawa, Canada
+  - Toronto, Canada  
