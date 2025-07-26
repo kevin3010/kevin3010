@@ -10,7 +10,8 @@
 
 ## 🛠️ Outside Work Hours
 
-- Skiing and Iceskates [image](https://kevin3010.github.io/assets/images/skiing.PNG)
+- ⛷️ Skiing and Iceskates [image](https://kevin3010.github.io/assets/images/skiing.PNG)
+- 💪🏼 Fitness Enthusiast
 - 🤖 Exploring the intersection of **AI & ML** in real-world applications
 - 🎬 Exploring **AI-generated storytelling** and **ML-driven visuals**
 
