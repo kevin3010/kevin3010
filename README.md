@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20Jivani&fontSize=40&fontAlign=center)
 
-🎯 **Software Developer @ Google** | 🇨🇦 Toronto, Canada  
+🎯 **Software Developer** | 🇨🇦 Toronto, Canada  
 🧠 **Machine Learning Enthusiast** \
 🎨 Passionate about the **creative side of tech**
 
